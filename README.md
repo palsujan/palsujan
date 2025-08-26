@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React, TypeScript**
 
 - 📫 How to reach me **sujanpal79@gmail.com**
 
