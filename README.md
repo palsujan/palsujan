@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sujan Pal</h1>
-<h3 align="justify">I am a seasoned web developer with over 4.7 years of professional experience, specializing in frontend development. My expertise encompasses a wide array of web technologies, including HTML5, CSS3, JavaScript, jQuery, React JS, and TypeScript. I have a proven track record of delivering high-quality, responsive, and user-friendly web applications. My experience includes working on high-profile projects such as those for Walmart, where I honed my skills in developing scalable and efficient frontend solutions.</h3>
+<h3 align="justify"> Front-end Developer with 4.7+ years of experience delivering end-to-end development of scalable, high-performance web and mobile
+ applications. Proficient in ReactJS, React Native, JavaScript (ES6+), TypeScript, HTML5, CSS3, and SCSS. Skilled at building reusable
+ components, integrating APIs, optimizing performance, and ensuring responsive design across all devices. Proven success on large-scale
+ products like Walmart, RummyCircle, and Wowzy Ludo</h3>
 
 <p align="left"> <a href="https://twitter.com/sujan320" target="blank"><img src="https://img.shields.io/twitter/follow/sujan320?logo=twitter&style=for-the-badge" alt="sujan320" /></a> </p>
 
