@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sujan320" target="blank"><img src="https://img.shields.io/twitter/follow/sujan320?logo=twitter&style=for-the-badge" alt="sujan320" /></a> </p>
 
-- 🔭 I’m currently working on **TechMahindra**
+- 🔭 I’m currently working on **Play Games24x7**
 
 - 🌱 I’m currently learning **Next.js**
 
