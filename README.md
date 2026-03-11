@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan Pal</h1>
-<h3 align="justify"> Front-end Developer with 4.7+ years of experience delivering end-to-end development of scalable, high-performance web and mobile
+<h3 align="justify"> Front-end Developer with 4.79+ years of experience delivering end-to-end development of scalable, high-performance web and mobile
  applications. Proficient in ReactJS, React Native, JavaScript (ES6+), TypeScript, HTML5, CSS3, and SCSS. Skilled at building reusable
  components, integrating APIs, optimizing performance, and ensuring responsive design across all devices. Proven success on large-scale
  products like Walmart, RummyCircle, and Wowzy Ludo</h3>
@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/sujan320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujan320" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sujan-pal-62105b170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujan-pal-62105b170" height="30" width="40" /></a>
-<a href="https://instagram.com/sujanpal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujanpal_" height="30" width="40" /></a>
+<a href="https://instagram.com/sohayok33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujanpal_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
