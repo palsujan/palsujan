@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan Pal</h1>
-<h3 align="justify"> Front-end Developer with 4.79+ years of experience delivering end-to-end development of scalable, high-performance web and mobile
+<h3 align="justify"> Front-end Developer with 4.9+ years of experience delivering end-to-end development of scalable, high-performance web and mobile
  applications. Proficient in ReactJS, React Native, JavaScript (ES6+), TypeScript, HTML5, CSS3, and SCSS. Skilled at building reusable
  components, integrating APIs, optimizing performance, and ensuring responsive design across all devices. Proven success on large-scale
  products like Walmart, RummyCircle, and Wowzy Ludo</h3>
