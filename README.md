@@ -1,31 +1,156 @@
-<h1 align="center">Hi 👋, I'm Sujan Pal</h1>
-<h3 align="justify"> Front-end Developer with 5+ years of experience delivering end-to-end development of scalable, high-performance web and mobile
- applications. Proficient in ReactJS, React Native, JavaScript (ES6+), TypeScript, HTML5, CSS3, and SCSS. Skilled at building reusable
- components, integrating APIs, optimizing performance, and ensuring responsive design across all devices. Proven success on large-scale
- products like Walmart, Allen Digital, RummyCircle, and Wowzy Ludo</h3>
-
-<p align="left"> <a href="https://twitter.com/sujan320" target="blank"><img src="https://img.shields.io/twitter/follow/sujan320?logo=twitter&style=for-the-badge" alt="sujan320" /></a> </p>
-
-- 🔭 I’m currently working on **Allen Digital**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React, TypeScript**
-
-- 📫 How to reach me **sujanpal79@gmail.com**
-
-- 👨‍💻 All of my projects are available at [🌐 sujanpal.in](https://www.sujanpal.in)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sujan320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujan320" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sujan-pal-62105b170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujan-pal-62105b170" height="30" width="40" /></a>
-<a href="https://instagram.com/sohayok33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujanpal_" height="30" width="40" /></a>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=220&section=header&text=Sujan%20Pal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20|%20Next.js%20|%20React%20Native&descAlignY=60&descSize=18"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Sujan Pal</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=palsujan&show_icons=true&locale=en&layout=compact" alt="palsujan" /></p>
+<h3 align="center">
+Frontend Developer with 5+ years of experience building scalable, high-performance web & mobile applications using modern JavaScript technologies.
+</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palsujan&" alt="palsujan" /></p>
+<p align="center">
+<a href="https://www.sujanpal.in" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge" />
+</a>
+
+<a href="mailto:sujanpal79@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/sujan-pal-62105b170" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://twitter.com/sujan320" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=palsujan&label=Profile%20Views&color=2563EB&style=flat-square" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Frontend Developer with **5+ years** of professional experience
+- 🚀 Currently working on **Allen Digital**
+- 🌱 Currently learning **Next.js** & **Frontend System Design**
+- 💬 Ask me about **React, React Native, JavaScript, TypeScript, HTML5, CSS3 & SCSS**
+- ⚡ Passionate about building reusable UI components and scalable frontend architectures
+- 📍 Based in **Bengaluru, India**
+
+---
+
+## 🚀 Products I've Worked On
+
+| Product | Domain |
+|---------|--------|
+| 🛒 Walmart | E-Commerce |
+| 🎓 Allen Digital | EdTech |
+| ♠️ RummyCircle | Gaming |
+| 🎮 Wowzy Ludo | Multiplayer Gaming |
+
+---
+
+## 💼 Current Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+React Native
+</p>
+
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,yarn" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=palsujan&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palsujan&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=palsujan&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+
+### **https://www.sujanpal.in**
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sujan-pal-62105b170">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="mailto:sujanpal79@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+<a href="https://twitter.com/sujan320">
+<img src="https://skillicons.dev/icons?i=twitter" width="55"/>
+</a>
+
+<a href="https://instagram.com/sohayok33">
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+</a>
+
+<a href="https://www.sujanpal.in">
+<img src="https://img.icons8.com/fluency/48/domain.png"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Building fast, scalable, and user-centric digital experiences."</i>
+</p>
+
+<!-- Footer -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
+</p>
